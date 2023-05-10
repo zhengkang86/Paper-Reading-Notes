@@ -3,7 +3,7 @@
 
 **CVPR 2019**
 
-This paper introduces a new method to generate images, under the GAN model paradigm. It borrows the idea of style transfer, and considers an image as a collection of "styles", each of which "controls the effects at a particular scale" [video](https://youtu.be/kSLJriaOumA?t=78).
+This paper introduces a new method to generate images, under the GAN model paradigm. It borrows the idea of style transfer, and considers an image as a collection of "styles", each of which "controls the effects at a particular scale" [video]([https://youtu.be/kSLJriaOumA?t=78](https://youtu.be/kSLJriaOumA?t=70)).
 
 The model architecture is designed to inject latent code at different scales, representing different styles, 
 
