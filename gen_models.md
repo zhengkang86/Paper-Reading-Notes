@@ -1,3 +1,5 @@
+Follow [Richard Zhang](https://richzhang.github.io/), [Tero Karras](https://research.nvidia.com/person/tero-karras), and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
+
 ## StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks
 **Tero Karras, Samuli Laine, and Timo Aila**
 
